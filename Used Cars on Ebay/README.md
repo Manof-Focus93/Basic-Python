@@ -3,7 +3,8 @@
 
 The data is gotten from [Kaggle Used Cars Database](https://www.kaggle.com/orgesleka/used-cars-database) with over 370000 used cars scraped with Scrapy from Ebay-Kleinanzeigen.
 
-For details:
+*For details:*
+
 | Variation | Definition |
 |-----------|------------|
 |dateCrawled|when this ad was first crawled, all field-values are taken from this date|
